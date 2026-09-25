@@ -1,0 +1,21 @@
+{
+  "name": "sdev2150-e01-intermediate-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vwilly784-dev/SDEV2150-E01-Intermediate-Frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vwilly784-dev/SDEV2150-E01-Intermediate-Frontend/issues"
+  },
+  "homepage": "https://github.com/vwilly784-dev/SDEV2150-E01-Intermediate-Frontend#readme"
+}
